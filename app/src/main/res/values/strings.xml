@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TareaProgra</string>
+    <string name="title_activity_git_ui">GitUiActivity</string>
+    <string name="github_ui_title">Título de GitHub UI</string>
+    <string name="github_ui_button">boton</string>
+</resources>
