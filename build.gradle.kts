@@ -5,4 +5,5 @@ plugins {
   //  alias(libs.plugins.kotlin.compose) apply false
     alias(libs.plugins.compose.compiler) apply false
     alias(libs.plugins.kapt)apply false
+    kotlin("jvm") version "2.0.0"
 }
